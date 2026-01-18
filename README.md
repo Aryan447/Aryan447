@@ -4,7 +4,7 @@
 
 I architect scalable web systems and integrate predictive intelligence to solve real-world problems.
 
-[🌐 **Visit My Portfolio**](https://aryan447.github.io/Aryan447/)
+[🌐 **Visit My Portfolio**](https://aryan447.github.io/)
 
 ---
 
